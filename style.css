@@ -1,0 +1,178 @@
+@charset "utf-8";
+body{ 
+	padding: 0; 
+	margin:  0; 
+}
+img {position: absolute;}
+	
+.header{
+		left: 25%;
+	}
+
+.pic1{
+		left: 10px;
+		top:150px;
+	}
+
+.pic2{
+		left: 300px;
+		top:150px;
+	}
+
+.pic3{
+		left: 600px;
+		top:150px;
+	}
+.pic4{
+		left: 900px;
+		top:150px;
+	}
+.pic5{
+		left: 1270px;
+		top:150px;
+	}
+.pic6{
+		left: 1600px;
+		top:150px;
+	}
+
+.pic7{
+		left: 10px;
+		top:500px;
+	}
+
+.pic8{
+		left: 300px;
+		top:500px;
+	}
+
+.pic9{
+		left: 600px;
+		top:500px;
+	}
+.pic10{
+		left: 900px;
+		top:500px;
+	}
+.pic11{
+		left: 1200px;
+		top:500px;
+	}
+.pic12{
+		left: 1500px;
+		top:500px;
+	}
+
+
+.pic13{
+		left: 10px;
+		top:800px;
+	}
+
+.pic14{
+		left: 300px;
+		top:800px;
+	}
+
+.pic15{
+		left: 600px;
+		top:800px;
+	}
+.pic16{
+		left: 900px;
+		top:800px;
+	}
+.pic17{
+		left: 1200px;
+		top:800px;
+	}
+.pic18{
+		left: 1500px;
+		top:800px;
+	}
+
+.pic19{
+		left: 10px;
+		top:1200px;
+	}
+
+.pic20{
+		left: 300px;
+		top:1200px;
+	}
+
+.pic21{
+		left: 600px;
+		top:1200px;
+	}
+.pic22{
+		left: 900px;
+		top:1200px;
+	}
+.pic23{
+		left: 1200px;
+		top:1200px;
+	}
+.pic24{
+		left: 1500px;
+		top:1200px;
+	}
+
+
+.pic25{
+		left: 10px;
+		top:1600px;
+	}
+
+.pic26{
+		left: 300px;
+		top:1600px;
+	}
+
+.pic27{
+		left: 600px;
+		top:1600px;
+	}
+.pic28{
+		left: 900px;
+		top:1600px;
+	}
+.pic29{
+		left: 1200px;
+		top:1600px;
+	}
+.pic30{
+		left: 1500px;
+		top:1600px;
+	}
+
+
+.pic31{
+		left: 10px;
+		top:2000px;
+	}
+
+.pic32{
+		left: 300px;
+		top:2000px;
+	}
+
+.pic33{
+		left: 600px;
+		top:20000px;
+	}
+.pic34{
+		left: 900px;
+		top:2000px;
+	}
+.pic35{
+		left: 1200px;
+		top:2000px;
+	}
+.pic36{
+		left: 1500px;
+		top:2000px;
+	}
+
+
+
